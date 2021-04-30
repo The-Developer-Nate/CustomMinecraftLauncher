@@ -5,7 +5,7 @@ a new minecraft launcher for forge
 # Questions
 
  - Q: Is This Open Source?
- - A: No.
+ - A: Yes.
 
  - Q: Will This Always Be Free?
  - A: Yes.
