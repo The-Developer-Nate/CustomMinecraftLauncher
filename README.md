@@ -20,3 +20,10 @@ a new minecraft launcher for forge
 - [x] Install Forge
 - [x] Mod Profiles
 - [ ] Launch Shortcuts
+
+# Launch Shorcuts v1
+
+ - [x] Login
+ - [x] Version
+ - [x] Memory
+ - [x] Mod Profile On Launch
