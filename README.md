@@ -27,3 +27,6 @@ a new minecraft launcher for forge
  - [x] Version
  - [x] Memory
  - [x] Mod Profile On Launch
+
+Syntax:
+{"email": "example@example.com","password": "ExamplePass","version": "1.16.5","memory": "4096","offlineuser": "OfflineUser"}
