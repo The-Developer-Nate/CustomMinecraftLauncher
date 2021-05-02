@@ -24,6 +24,7 @@ a new minecraft launcher for forge
 # Launch Shorcuts v1
 
 To Make A Shortcut Make Sure That you make a new .json file with the syntax below then make a new shortcut then The location is "Game Launcher.exe Location" "JSON File Location"
+
 ![image](https://user-images.githubusercontent.com/67196220/116825912-66cebe00-ab5f-11eb-8b1c-7fc96584f1b5.png)
 ![image](https://user-images.githubusercontent.com/67196220/116825869-371fb600-ab5f-11eb-908c-d362900e5265.png)
 
