@@ -19,3 +19,4 @@ a new minecraft launcher for forge
 - [x] Download Minecraft Versions
 - [x] Install Forge
 - [x] Mod Profiles
+- [ ] Launch Shortcuts
