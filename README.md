@@ -11,7 +11,7 @@ a new minecraft launcher for forge
  - A: No.
 
  - Q: Can It Download Any Version?
- - A: Check CmlLib For That Question: https://github.com/CmlLib/CmlLib.Core
+ - A: Mostly
 
 # Tasklist
 
