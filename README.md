@@ -1,6 +1,6 @@
 # CustomMinecraftLauncher
 
-a new minecraft launcher for forge
+a new minecraft launcher for forge, CMLauncher PRO Coming soon..
 
 # Questions
 
