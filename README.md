@@ -8,7 +8,7 @@ a new minecraft launcher for forge
  - A: No.
 
  - Q: Will This Always Be Free?
- - A: Yes.
+ - A: No.
 
  - Q: Can It Download Any Version?
  - A: Check CmlLib For That Question: https://github.com/CmlLib/CmlLib.Core
