@@ -1,6 +1,6 @@
 # CustomMinecraftLauncher
 
-a new minecraft launcher for forge, CMLauncher PRO Coming soon..
+a new minecraft launcher for forge, CMLauncher PRO Coming soon, Buy: https://sellix.io/product/60f9c5ec73d5b
 
 # Questions
 
