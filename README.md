@@ -8,7 +8,7 @@ a new minecraft launcher for forge, CMLauncher Pro Canceled.
  - A: No.
 
  - Q: Will This Always Be Free?
- - A: No.
+ - A: Yes.
 
  - Q: Can It Download Any Version?
  - A: Mostly
