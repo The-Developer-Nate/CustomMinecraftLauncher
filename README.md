@@ -20,6 +20,8 @@ a new minecraft launcher for forge, CMLauncher Pro Canceled.
 - [x] Install Forge
 - [x] Mod Profiles
 - [x] Launch Shortcuts (Work In Progress )
+- [ ] Parental controls
+- [ ] Speedrun Timelimit
 
 # Launch Shorcuts v1
 
