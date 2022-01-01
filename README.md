@@ -7,7 +7,7 @@ Discontinued because of Log4Shell Insecurity
 # Questions
 
  - Q: Is This Open Source?
- - A: No.
+ - A: Yes.
 
  - Q: Will This Always Be Free?
  - A: Yes.
