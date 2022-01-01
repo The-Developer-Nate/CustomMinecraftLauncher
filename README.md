@@ -2,6 +2,8 @@
 
 a new minecraft launcher for forge, CMLauncher Pro Canceled.
 
+Discontinued because of Log4Shell Insecurity
+
 # Questions
 
  - Q: Is This Open Source?
