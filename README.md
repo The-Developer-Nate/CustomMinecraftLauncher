@@ -7,7 +7,7 @@ Currently maintained
 # Questions
 
  - Q: Is This Open Source?
- - A: Yes.
+ - A: No.
 
  - Q: Will This Always Be Free?
  - A: Yes.
