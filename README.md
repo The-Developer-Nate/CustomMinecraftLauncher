@@ -37,7 +37,7 @@ To Make A Shortcut Make Sure That you make a new .json file with the syntax belo
  - [x] Login
  - [x] Version
  - [x] Memory
- - [x] Mod Profile On Launch
+ - [ ] Mod Profile On Launch
 
 # Syntax 
 {"$schema":"https://raw.githubusercontent.com/The-Developer-Nate/JSONSchema/main/CustomMinecraftLauncher.json", "email": "example@example.com","password": "ExamplePass","version": "1.16.5","memory": "4096","offlineuser": "OfflineUser","mpn": "ModProfile Name", "timelimit": -1}
