@@ -21,7 +21,7 @@ Currently maintained
 - [x] Download Minecraft Versions
 - [x] Install Forge
 - [x] Mod Profiles
-- [x] Launch Shortcuts (Work In Progress )
+- [ ] Launch Shortcuts (WIP)
 - [ ] Parental controls
 - [ ] Speedrun Timelimit
 
