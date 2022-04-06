@@ -27,7 +27,7 @@ Currently maintained
 
 To Make A Shortcut Make Sure That you make a new .json file with the syntax below then make a new shortcut then The location is "Game Launcher.exe Location" "JSON File Location" (Old Versions)
 
-Go into the modding tab and click "Add .cmlaunch file association", this does require administrator. the old way will still work.
+Go into the modding tab and click "Add .cmlaunch file association", this does require administrator. the old way will still work. (Not Public Yet)
 
 
 ![image](https://user-images.githubusercontent.com/67196220/116825912-66cebe00-ab5f-11eb-8b1c-7fc96584f1b5.png)
