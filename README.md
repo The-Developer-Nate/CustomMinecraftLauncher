@@ -22,8 +22,6 @@ Currently maintained
 - [x] Install Forge
 - [x] Mod Profiles
 - [ ] Launch Shortcuts (WIP)
-- [ ] Parental controls
-- [ ] Speedrun Timelimit
 
 # Launch Shorcuts v1
 
