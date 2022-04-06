@@ -32,7 +32,7 @@ To Make A Shortcut Make Sure That you make a new .json file with the syntax belo
 ![image](https://user-images.githubusercontent.com/67196220/116825997-de9ce880-ab5f-11eb-9e70-d47625dda087.png)
 
 
- - [x] Login
+ - [ ] Login (Not Possible)
  - [x] Version
  - [x] Memory
  - [ ] Mod Profile On Launch
