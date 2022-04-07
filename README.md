@@ -29,6 +29,8 @@ To Make A Shortcut Make Sure That you make a new .json file with the syntax belo
 
 Go into the modding tab and click "Add .cmlaunch file association", this does require administrator. the old way will still work. (Not Public Yet)
 
+Before you uninstall, please click "Remove .cmlaunche file association", reqires admin. do this if you aren't reinstalling.
+
 
 ![image](https://user-images.githubusercontent.com/67196220/116825912-66cebe00-ab5f-11eb-8b1c-7fc96584f1b5.png)
 ![image](https://user-images.githubusercontent.com/67196220/116825997-de9ce880-ab5f-11eb-9e70-d47625dda087.png)
